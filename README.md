@@ -10,8 +10,8 @@
 
 
 ### :triangular_ruler:**IDE: Pycharm** 
-### **虚拟环境：** Anaconda
+### :sunny:**虚拟环境：** Anaconda
 ### :star:该项目使用的Python扩展包: `pytesseract` 、`tesseract` 、`Opencv4.5`、`imutils`、`numpy1.16`、`PIL`、`PyQt5`
-`pip install '扩展包'’`
+`pip install '扩展包'`
 
 # 使用
