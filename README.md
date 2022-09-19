@@ -6,7 +6,7 @@
 # 安装
 ***
 ### :earth_asia: 配置环境变量(Windows)
->>当你下载好`Tesseract`后（安装路径不要有中文）,将你的`Tesseract`的路径添加到环境变量**Path**中,点击保存,退出。再次打开`Tesseract`的路径,找到**tessdata**,复制此路径，设置新的环境变量**TESSDATA_PREFIX**,点击保存。:bell:安装后的验证方法，Cmd 窗口，使用命令tesseract -v验证。
+>当你下载好`Tesseract`后（安装路径不要有中文）,将你的`Tesseract`的路径添加到环境变量**Path**中,点击保存,退出。再次打开`Tesseract`的路径,找到**tessdata**,复制此路径，设置新的环境变量**TESSDATA_PREFIX**,点击保存。:bell:安装后的验证方法，Cmd 窗口，使用命令tesseract -v验证。
 
 
 ### :triangular_ruler:**IDE: Pycharm** 
