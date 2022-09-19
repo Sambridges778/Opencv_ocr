@@ -13,5 +13,6 @@
 ### :sunny:**虚拟环境：** Anaconda
 ### :star:该项目使用的Python扩展包: `pytesseract` 、`tesseract` 、`Opencv4.5`、`imutils`、`numpy1.16`、`PIL`、`PyQt5`
 `pip install '扩展包'`
+Tesseract软件的下载地址https://img.shields.io/badge/<Tesseract>-<Download>-<blue>
 
 # 使用
