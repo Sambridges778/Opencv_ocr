@@ -12,7 +12,11 @@
 ### :triangular_ruler:**IDE: Pycharm** 
 ### :sunny:**虚拟环境：** Anaconda
 ### :star:该项目使用的Python扩展包: `pytesseract` 、`tesseract` 、`Opencv4.5`、`imutils`、`numpy1.16`、`PIL`、`PyQt5`
-`pip install '扩展包'`
-Tesseract软件的下载地址(https://digi.bib.uni-mannheim.de/tesseract/)
+
+  `pip install '扩展包'`
+
+  Tesseract软件的下载地址(https://digi.bib.uni-mannheim.de/tesseract/)
+  
+  :bell:简体字识别包下载地址(https://raw.githubusercontent.com/tesseract-ocr/tessdata/4.00/chi_sim.traineddata)
 
 # 使用
