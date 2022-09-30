@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="images">
+    <file>image/VideoBGC.jpg</file>
+    <file>image/ImgBGC.jpg</file>
+    <file>image/image.png</file>
+    <file>image/BlueBGC.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/video.png</file>
+    <file>icons/ScanPic.png</file>
+    <file>icons/Picture.png</file>
+    <file>icons/OpenFile.png</file>
+    <file>icons/Delete.png</file>
+  </qresource>
+</RCC>
